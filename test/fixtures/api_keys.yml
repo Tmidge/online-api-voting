@@ -1,7 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  access_token: MyString
+  access_token: f16a96fe5ae61836993a60c62ac1b23c
 
 two:
   access_token: MyString
